@@ -8,6 +8,7 @@
 @prefix contax: <https://w3id.org/con-tax#> .
 @prefix dbr: <http://dbpedia.org/resource/> .
 @prefix dct: <http://purl.org/dc/terms/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix gvp: <http://vocab.getty.edu/ontology#> .
 @prefix iso-thes: <http://purl.org/iso25964/skos-thes#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -38,7 +39,8 @@ contax:ConstructionSubComponent
 <https://w3id.org/con-tax/components/aat-arch>
   rdf:type voaf:Vocabulary ;
   rdf:type owl:Ontology ;
-  dct:creator [
+  cc:license <https://opendatacommons.org/licenses/by/1-0/> ;
+  dcterms:creator [
       rdf:type vcard:Individual ;
       vcard:family-name "Bonduel" ;
       vcard:fn "Mathias Bonduel" ;
@@ -53,11 +55,11 @@ contax:ConstructionSubComponent
       vcard:hasURL <https://www.kuleuven.be/wieiswie/nl/person/00110827> ;
       vcard:hasURL <https://www.researchgate.net/profile/Mathias_Bonduel> ;
     ] ;
-  dct:description """A taxonomy of architectural construction components derived from the Getty Art & Architecture Thesaurus (Getty AAT: https://www.getty.edu/research/tools/vocabularies/aat/about.html), v2020-07-29.
+  dcterms:description """A taxonomy of architectural construction components derived from the Getty Art & Architecture Thesaurus (Getty AAT: https://www.getty.edu/research/tools/vocabularies/aat/about.html), v2020-07-29.
 
 Note: Contains information from the J. Paul Getty Trust, Getty Research Institute, the Art & Architecture Thesaurus, which is made available under the ODC Attribution License."""@en ;
-  dct:issued "2020-11-29"^^xsd:date ;
-  dct:title "AAT-ARCH taxonomy"@en ;
+  dcterms:issued "2020-11-29"^^xsd:date ;
+  dcterms:title "AAT-ARCH taxonomy"@en ;
   vann:preferredNamespacePrefix "aat-arch" ;
   vann:preferredNamespaceUri "https://w3id.org/con-tax/components/aat-arch#" ;
   rdfs:comment "- Version 0.0.1: initial version"@en ;
