@@ -1,0 +1,686 @@
+<rdf:RDF xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#">
+      <Alignment>
+        <map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Railing-BALUSTRADE"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001989"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Beam-T_BEAM"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001505"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Railing-GUARDRAIL"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002019"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#ShadingDevice-AWNING"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300254200"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Roof-GABLE_ROOF"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002126"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Stair-DOUBLE_RETURN_STAIR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300073907"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Wall-SHEAR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002570"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Roof-GAMBREL_ROOF"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002142"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Railing"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002018"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Railing-HANDRAIL"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002022"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Roof-BUTTERFLY_ROOF"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002113"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Pile"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300000938"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Door-TRAPDOOR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002835"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Member-BRACE"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001834"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Chimney"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003933"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Ramp"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003219"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Roof-HIP_ROOF"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002147"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Window"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300069689"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Wall-PARAPET"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002487"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Pile-DRIVEN"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300000948"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Slab-LANDING"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300069164"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Footing"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300000931"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Stair-HALF_TURN_STAIR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003232"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#CurtainWall"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002563"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Member-PLATE"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001855"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Roof-RAINBOW_ROOF"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002157"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Roof-MANSARD_ROOF"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002155"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Beam-SPANDREL"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002665"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Roof-BARREL_ROOF"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002108"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Roof-FLAT_ROOF"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002117"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Wall"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002469"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Stair-QUARTER_TURN_STAIR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003240"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Slab-FLOOR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002060"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Roof"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002098"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Column-PILASTER"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002737"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Roof-SHED_ROOF"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002162"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Door-GATE"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002916"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Beam-LINTEL"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003161"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Member-MULLION"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003092"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Member-RAFTER"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002424"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Stair-SPIRAL_STAIR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003243"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Door"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002803"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Beam-JOIST"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001544"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Beam"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001497"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Slab"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001208"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Stair"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003228"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Member-PURLIN"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002399"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Covering-CEILING"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002031"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Member-POST"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001609"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Covering-MOLDING"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003429"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Column"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001571"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#DiscreteAccessory-BRACKET"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300075330"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Window-SKYLIGHT"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003062"/>
+          <relation>=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map>
+        <map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Tendon-WIRE"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001539"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#ShadingDevice-SHUTTER"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003173"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#RampFlight-STRAIGHT"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300188014"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#ReinforcingBar-STUD"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300266804"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Covering-SLEEVING"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001389"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#RampFlight"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003219"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#ReinforcingBar-RING"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002601"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#MechanicalFastener-DOWEL"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003324"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Member-STUD"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300266804"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#TransportElement-ELEVATOR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002916"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#MechanicalFastener-NAIL"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002505"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#StairFlight-WINDER"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003330"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#TransportElement-ESCALATOR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300265624"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Slab-ROOF"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002098"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#MechanicalFastener-BOLT"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300262955"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#ReinforcingBar-MAIN"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002601"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#StairFlight"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003228"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Tendon-BAR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300411524"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Plate-SHEET"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300000992"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Door-DOOR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002803"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Member-CHORD"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001946"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Member-STRINGER"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300265528"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Plate-CURTAIN_PANEL"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300204120"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#DiscreteAccessory-SHOE"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300108027"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#TransportElement-CRANEWAY"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003228"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#VibrationIsolator-SPRING"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001323"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Plate"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001855"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Window-WINDOW"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300069689"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Member-STRUT"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300374974"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Tendon"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002296"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Covering-CLADDING"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002018"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#MechanicalFastener-STAPLE"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001613"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#StairFlight-STRAIGHT"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300188014"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#BuildingElement"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001703"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Covering"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300002685"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#ShadingDevice-JALOUSIE"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003028"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Fastener-GLUE"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003173"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Fastener-WELD"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300003324"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Beam-BEAM"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001497"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Fastener-MORTAR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300052347"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Pile-SUPPORT"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300374974"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#ReinforcingBar-SHEAR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300193696"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#Member-COLLAR"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300007633"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map><map>
+        <Cell>
+          <entity1 rdf:resource="http://pi.pauwel.be/voc/buildingelement#MechanicalFastener-SCREW"/>
+          <entity2 rdf:resource="https://w3id.org/con-tax/components/aat-arch#300001015"/>
+          <relation>!=</relation>
+          <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+        </Cell>
+      </map>
+        
+      </Alignment>
+    </rdf:RDF>
